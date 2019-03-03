@@ -199,7 +199,7 @@ std::string decrypt(std::string buffer, char (&keytable)[5][5], unsigned int* x,
             }
         }
     }
-    if (uppercase_letter(buffer[length-1]) == 'X') buffer[length-1] = '\0';
+    if (uppercase_letter(buffer[length-1]) == 'X' || uppercase_letter(buffer[length-1]) == 'Q') buffer[length-1] = '\0';
     return buffer;
 }
 
