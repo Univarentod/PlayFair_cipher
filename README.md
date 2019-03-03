@@ -29,4 +29,4 @@ The rules adopted:
     1. If an 'X' is located between two same characters or at the end of the plaintext, drop the 'X'. If an 'Q' is is
       located between two 'X' or at the end of the plaintext, drop the 'Q'.
     
-    2, 3, 4. Use the inverse (opposite) of the last 3 rules
+    2, 3, 4. Use the inverse (opposite) of the last 3 rules of Encryption.
