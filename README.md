@@ -1,6 +1,10 @@
 # PlayFair_cipher
 Based on the PlayFair cipher's description on the wiki
 
+PlayFair cipher's wiki webpage:
+
+https://en.wikipedia.org/wiki/Playfair_cipher
+
 The rules adopted:
   
   To generate the keytable:
